@@ -17,15 +17,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   
+  <hr class="my-hr1">
   
-I hope to become a front-end developer.
-  
- #### 🌱 Studying 🌱
-  <br>
+ #### 🌱 Study-ing 🌱
   
   <div class="row">
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
@@ -34,8 +31,5 @@ I hope to become a front-end developer.
   <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez1n&layout=compact)
-
-  <br>
-  <hr>
   
 </div>
