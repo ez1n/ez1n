@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=flat-square&logo=HTML5&logoColor=#E34F26"/>
 
 <!--
 **ez1n/ez1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
