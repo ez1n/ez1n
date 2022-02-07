@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <hr class="my-hr1">
-  
  #### 🌱 Study-ing 🌱
   
   <div class="row">
