@@ -29,11 +29,9 @@ Studying
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez1n&layout=compact)
 
-<hr>
-<div class="row">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez1n&show_icons=true&theme=vue)
-  [![Solved.ac
+[![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eodrmfdl1004)](https://solved.ac/eodrmfdl1004)
 
-</div>
+
+<hr>
