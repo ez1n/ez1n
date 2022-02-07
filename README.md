@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=ez1n&fontSize=80)
 
-Studying
-
 <div align="center">
+  Studying
+  
   <div class="row">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
@@ -33,6 +33,7 @@ Studying
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eodrmfdl1004)](https://solved.ac/eodrmfdl1004)
 
-<hr>
+  <br>
+  <hr>
   
 </div>
