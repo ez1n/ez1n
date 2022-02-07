@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&width="auto"&section=header&text=ez1n&fontSize=80)
+
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=ez1n&fontSize=80)
-  
   Studying
   
   <div class="row">
