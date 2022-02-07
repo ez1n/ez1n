@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   Studying
+  <br>
   
   <div class="row">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -29,9 +30,6 @@ Here are some ideas to get you started:
   <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez1n&layout=compact)
-
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eodrmfdl1004)](https://solved.ac/eodrmfdl1004)
 
   <br>
   <hr>
