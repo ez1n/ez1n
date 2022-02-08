@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez1n&layout=compact)
   
+  <a href="https://ttugttag-coding.tistory.com/">🏃Go to ez1n's blog🏃</a>
 </div>
-
-[🏃Go to ez1n's blog🏃](https://ttugttag-coding.tistory.com/){: target="_blank"}
