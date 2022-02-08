@@ -31,3 +31,7 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez1n&layout=compact)
   
 </div>
+
+<span align="center">
+  <a href="https://ttugttag-coding.tistory.com/ target="_blank">🏃Go to ez1n's blog🏃</a>
+</span>
