@@ -32,4 +32,4 @@ Here are some ideas to get you started:
   
 </div>
 
-<center>[🏃Go to ez1n's blog🏃](https://ttugttag-coding.tistory.com/){:target="_blank"}</center>
+[🏃Go to ez1n's blog🏃](https://ttugttag-coding.tistory.com/){:target="_blank"}
