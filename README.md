@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   
- #### 🌱 Study-ing 🌱
+ ### 🌱 Study-ing 🌱
   
- #### ✏️ Language
+ #### Language ✏️
  
   <div class="row">
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
   </div>
   
- #### ✏️ Library
+ #### Library ✏️
  
  <div class="row">
     <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"/>
