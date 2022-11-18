@@ -28,6 +28,11 @@
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white"/>
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
   </div>
+  
+  ### Database
+  <div class="row">
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white"/>
+  </div>
 
   <br>
   <br>
