@@ -26,9 +26,12 @@
   </div>
   <div class="row">
     <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white" />
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
+  </div>
+  <div class="row">
+    <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=plastic&logo=PostCSS&logoColor=white"/>
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white"/>
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
   </div>
   
   ### Database
