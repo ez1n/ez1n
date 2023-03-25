@@ -38,9 +38,9 @@
 
   <br>
   <br>
-  <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez1n&layout=compact&hide=Python)
   
-  <a href="https://ttugttag-coding.tistory.com/">🏃Go to ez1n's blog🏃</a>
+  <a href="https://ttugttag-coding.tistory.com/">🏃Blog🏃</a>
+  <a href="https://www.notion.so/ef18167eab1b47b789f0b3da3d537c14/">🎨Portfolio🎨</a>
 </div>
