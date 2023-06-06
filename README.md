@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&width="auto"&section=header&text=ez1n&fontSize=80)
 
-<div align="center">
+<div>
   
  ## 🌱 Study-ing 🌱
   
@@ -35,12 +35,15 @@
   <div class="row">
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white"/>
   </div>
+  
+  ### Link
+  <div><a href="https://www.notion.so/CS-0d307e7ab6b641898e3bc1bd88b78194">✏️CS 저장소</a></div>
+  <div><a href="https://ttugttag-coding.tistory.com/">🏃Blog🏃</a></div>
+  <div><a href="https://www.notion.so/ef18167eab1b47b789f0b3da3d537c14/">🎨Portfolio🎨</a></div>
 
   <br>
   <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez1n&layout=compact&hide=Python)
   
-  <a href="https://ttugttag-coding.tistory.com/">🏃Blog🏃</a>
-  <a href="https://www.notion.so/ef18167eab1b47b789f0b3da3d537c14/">🎨Portfolio🎨</a>
 </div>
