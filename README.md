@@ -1,11 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&width="auto"&section=header&text=ez1n&fontSize=80)
 
-<div>
+
+ ### 🌱 Study-ing
   
- ## 🌱 Study-ing 🌱
-  
- ### Languages
+ #### Languages
  
   <div class="row">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
@@ -14,7 +13,7 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
   </div>
   
- ### Libraries / Frameworks
+ #### Libraries / Frameworks
  
  <div class="row">
     <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"/>
@@ -31,19 +30,19 @@
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white"/>
   </div>
   
-  ### Database
+  #### Database
   <div class="row">
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white"/>
   </div>
-  
-  ### Link
+
+  #### Link
   <div><a href="https://www.notion.so/CS-0d307e7ab6b641898e3bc1bd88b78194">✏️CS 저장소</a></div>
   <div><a href="https://ttugttag-coding.tistory.com/">🏃Blog🏃</a></div>
   <div><a href="https://www.notion.so/ef18167eab1b47b789f0b3da3d537c14/">🎨Portfolio🎨</a></div>
 
   <br>
-  <br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez1n&layout=compact&hide=Python)
+  ### 🏢 Careers
+- [2023.07 ~ ing] Bigwaverobotics | Frontend Engineer
   
-</div>
+
