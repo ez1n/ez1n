@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=plastic&logo=PostCSS&logoColor=white"/>
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white"/>
+   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white"/>
   </div>
   
   #### Database
