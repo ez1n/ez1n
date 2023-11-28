@@ -38,6 +38,7 @@
 
   #### Link
   <div><a href="https://ttugttag-coding.tistory.com/">🏃Blog🏃</a></div>
+  <div><a href="https://www.notion.so/Yejin-Jeon-ef18167eab1b47b789f0b3da3d537c14">💡About Me💡</a></div>
 
   <br>
 
