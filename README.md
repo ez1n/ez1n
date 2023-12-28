@@ -43,6 +43,6 @@
   <br>
 
   ### 🏢 Careers
-- [2023.07 ~ ing] Bigwaverobotics | Frontend Engineer
+- [2023.07 ~ 2023.12] Bigwaverobotics | Frontend Engineer
   
 
