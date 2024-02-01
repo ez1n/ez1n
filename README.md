@@ -9,6 +9,8 @@
   <div class="row">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
+  </div>
+  <div class="row">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white"/>
