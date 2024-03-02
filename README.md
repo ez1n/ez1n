@@ -48,6 +48,6 @@
 
   ### 🏢 Careers
 - [2023.07 ~ 2023.12] Bigwaverobotics | Frontend Engineer
-- [2024.03 ~ ing] 아이엠에스커넥트 | Frontend Engineer
+- [2024.03 ~ ing] IMS.Connect | Frontend Engineer
   
 
