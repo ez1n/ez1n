@@ -15,6 +15,9 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white"/>
   </div>
+  <div class="row">
+    <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
+  </div>
   
  #### Libraries / Frameworks
  
@@ -31,6 +34,11 @@
     <div class="row">
     <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white" />
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
+  </div>
+  </div>
+    <div class="row">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi"/>
   </div>
   
   #### Database
