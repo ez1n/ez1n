@@ -44,6 +44,7 @@
   #### Database
   <div class="row">
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white"/>
+   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
   </div>
 
   #### Link
