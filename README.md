@@ -54,7 +54,6 @@
   <br>
 
   ### 🏢 Careers
+- [2024.03 ~ ing] IMS.Mobility | Frontend Engineer, Backend Engineer
 - [2023.07 ~ 2023.12] Bigwaverobotics | Frontend Engineer
-- [2024.03 ~ ing] IMS.Connect | Frontend Engineer
-  
 
